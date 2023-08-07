@@ -51,14 +51,14 @@ p {
 
 .top-cloud {
   position: absolute;
-  right: 300px;
-  top: 50px;
+  right: 20%;
+  top: 10%;
 }
 
 .bottom-cloud {
-  bottom: 300px;
+  bottom: 23%;
   position: absolute;
-  left: 300px;
+  left: 20%;
 }
 
 .top-container {
@@ -79,7 +79,7 @@ p {
 .project-row {
   margin: 100px auto;
   text-align: left;
-  width: 50%;
+  width: 60%;
 }
 
 .movie-img,
@@ -94,7 +94,7 @@ p {
 }
 
 .intro {
-  width: 30%;
+  width: 50%;
   margin: auto;
 }
 
@@ -127,5 +127,11 @@ p {
 }
 
 .contact-me h3 {
-  margin-bottom: 100px;
+  margin: 50px auto;
+  width: 50%;
+}
+
+.mountain-img {
+  max-width: 100%;
+  height: auto;
 }
